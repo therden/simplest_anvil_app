@@ -1,0 +1,5 @@
+package_name: SimplestApp
+name: SimplestApp
+runtime_options: {version: 2, server_version: python3-sandbox}
+
+
